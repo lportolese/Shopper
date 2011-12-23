@@ -18,4 +18,14 @@ He would like to be able to do more with this application, so he has tasked you 
 * He would like to be able to sort results returned from a search by any available column.
 * He would like the ability to mark a television as an item of interest.  He should be able to easily view 
   and manage a list of favorite televisions.
+* He would like the application to be secured with user accounts, and televisions should be associated with users.
 
+## Instructions
+
+1.  Create a GitHub account (if you do not already have one).
+2.  Fork this repository.
+3.  Implement the features described above using any gems or libraries you deem appropriate.  Web scraping must
+    be performed using Mechanize.
+    * You must perform  the test in a single sitting, and are allowed no more than 4 hours.
+4.  When complete, email a link to your forked repository to `technology@tlsgltd.com`, preferably with a
+    tag or branch containing the completed code.
