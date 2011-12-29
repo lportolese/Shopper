@@ -20,6 +20,9 @@ He would like to be able to do more with this application, so he has tasked you 
   and manage a list of favorite televisions.
 * He would like the application to be secured with user accounts, and televisions should be associated with users.
 
+Please also edit the README.md file to explain your logic and any decisions you've made.  Additionally, answer
+the following question: If you had more time to work on this, what additional features could you add?
+
 ## Instructions
 
 1.  Create a GitHub account (if you do not already have one).
